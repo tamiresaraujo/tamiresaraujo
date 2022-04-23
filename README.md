@@ -15,7 +15,7 @@
   <img align="center" alt="Icon-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Icon-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Icon-SQL" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="right" alt="Tami-gif" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/a81f02752d18e2f220fb755c0c608239.gif">
+  <img align="right" alt="Tami-gif" height="150" style="border-radius:50px;"src="https://i.picasion.com/pic92/d82b245d31f740b81fa53fa5c5011eac.gif">
 </div>
   
   ##
